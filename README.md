@@ -44,7 +44,7 @@ MMM  M'  "MMM   YMM   ""`     MMM     YM   YMM   ""`     "YMmMY"
 ![Visitor Count](https://profile-counter.glitch.me/Moon-Wrecker/count.svg)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=016EEA&width=800&lines=Welcome+to+my+profile.;Ayoooo;Hope+you+enjoy!;Now+we+both+probably+need+to+get+back+to+coding" />
+  <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=FF0000&width=800&lines=Welcome+to+my+profile.;Ayoooo;Hope+you+enjoy!;Now+we+both+probably+need+to+get+back+to+coding" />
 </p>
 
 <p align="center">
